@@ -1,0 +1,8 @@
+{
+  "name": "Tiko-Bobro-Tub",
+  "description": "A hybrid video platform combining the addictive short-form feed of TikTok with the depth of YouTube, all with a cozy beaver-themed aesthetic and integrated Gemini AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
